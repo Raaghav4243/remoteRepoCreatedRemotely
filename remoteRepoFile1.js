@@ -4,8 +4,7 @@ this is my repo, i have the permission to push in the main branch so i can direc
 a local copy of the code.
 
 
-pushing the change in new branch.
-creating second change in new branch
-new branch basically means we have two code base, both have comman part , but some diffrent part as well
+changes made in branch 2
+to make merge conflict
 
-now these changes can be merged in main branch 
+now these changes can be merged in main branch
