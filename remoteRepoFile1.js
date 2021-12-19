@@ -8,4 +8,7 @@ pushing the change in new branch.
 creating second change in new branch
 new branch basically means we have two code base, both have comman part , but some diffrent part as well
 
-now these changes can be merged in main branch 
+now these changes can be merged in main branch
+
+checkng for permission
+asdasdsadasd
